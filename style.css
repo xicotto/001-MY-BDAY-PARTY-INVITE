@@ -12,5 +12,12 @@ i{
 }
 
 .navver{
-    
+    background: cyan;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.image-bg{ 
+
+    background-image: url(download.jpg);
 }
